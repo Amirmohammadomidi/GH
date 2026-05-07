@@ -1,5 +1,1 @@
-
-  
- 
- 
- 
+- Code quality assessment.
